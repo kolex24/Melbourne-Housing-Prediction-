@@ -16,5 +16,10 @@ The worklow includes data wrangling, feature selection, baseline model setup, an
 ## Model Performance Summary
 - **Baseline Score** is 638,356.51 which is the benchmark of our learning algorithms
 - **Decision Tree** have 377,743.00 RMSE, 142,689,778,282.41 MSE and 0.65 R_Square
-- **Gradient Boosting Regression** have 276,071.0 RMSE, 76215463200.98 MSE and 0.82 R_Square
+- **Gradient Boosting Regression** have 276,071.0 RMSE, 76,215,463,200.98 MSE and 0.82 R_Square
 
+## Tools & Libraries
+-  Python (Google Colab)
+-  pandas, numpy
+-  Scikit-learn
+-  matplotlib,seaborn and plotly express for visualization
